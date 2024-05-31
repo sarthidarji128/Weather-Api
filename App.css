@@ -1,0 +1,37 @@
+img{
+    height: auto;
+    width: auto;
+}
+
+input{
+    margin-top: 100px;
+    margin-left: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+button
+{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.frame{
+    border-radius: 10px;
+    border: none;
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-top:200px;
+    height: 600px;
+    width: 520px;
+}
+
+.content
+{
+    margin-left: 100px;
+}
+.lat{
+    font-size: 24px;
+}
