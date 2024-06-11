@@ -16,10 +16,22 @@
 # Step - 1 
 
 
+
 ```bash 
 mkdir WeatherApp
 
 cd WeatherApp
+```
+
+
+
+# step - 2
+
+
+```bash
+
+
+npm create vite@latest
 ```
 
 
