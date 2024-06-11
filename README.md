@@ -1,6 +1,8 @@
 # Weather-Api
 
 what is app ?
+
+
 -> so the app gives the live inforamtion of the weather , wind speed , humidity , temperature and the co-ordinates of an paricular loaction.
 
 
