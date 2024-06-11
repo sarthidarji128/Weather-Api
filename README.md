@@ -1,5 +1,11 @@
 # Weather-Api
 
+
+
+
+
+
+
 # what is app ?
 
 
@@ -32,6 +38,24 @@ cd WeatherApp
 
 
 npm create vite@latest
+```
+
+
+
+                Now Enter the Project name
+
+                Select the frameWork , enter React 
+
+                Select the 
+
+
+# step - 3 
+
+```bash
+
+  cd vite-project
+  npm install
+
 ```
 
 
