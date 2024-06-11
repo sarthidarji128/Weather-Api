@@ -25,7 +25,6 @@
 
 ```bash 
 mkdir WeatherApp
-
 cd WeatherApp
 ```
 
@@ -35,18 +34,13 @@ cd WeatherApp
 
 
 ```bash
-
-
 npm create vite@latest
 ```
 
 
-
-                Now Enter the Project name
-
-                Select the frameWork , enter React 
-
-                Select the 
+Now Enter the Project name
+Select the frameWork , enter React 
+Select the  , JavaScript 
 
 
 # step - 3 
