@@ -1,15 +1,20 @@
 # Weather-Api
 
-what is app ?
+# what is app ?
 
 
 -> so the app gives the live inforamtion of the weather , wind speed , humidity , temperature and the co-ordinates of an paricular loaction.
 
 
-Which Api i Used??
+# Which Api i Used??
 
 
 -> OpenWeather Api i used.
+
+
+
+# Step - 1 
+
 
 ```bash 
 mkdir WeatherApp
